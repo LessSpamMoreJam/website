@@ -4,7 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Hate the spammy websites, but want the recipes?  Us too.
+# Origin Story...
+
+When trying to search for quick recipies online we were constantly faced an abusive level of pop-ups, adverts and spammy websites.
+After scrolling through pages and pages of tragic back story to every single ingredient, we could finally get to a list of ingredients, and maybe find the method of how to cook.
+
+This website aims to solve this problem. 
+
+Simple website. Each recipe contains two part. Ingredients and Method.
+
+That is all!
+
+
+
+
+Hated spammy websites, but want the recipes?  Us too.
 
 Don’t care about their tragic backstory? Us neither.
 
