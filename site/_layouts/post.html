@@ -26,11 +26,11 @@ layout: default
       {%- endif -%}</p>
     
     <p>
-      <div class="post-tags">
+      <span>
         {% for tag in page.tags %}
-         <span class="tag" class="dt-published">#{{ tag }}</span>
+         <span class="dt-published">#{{ tag }}</span>
         {% endfor %}
-      </div>
+      </span>
     </p>
     
   </header>
