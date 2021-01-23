@@ -2,8 +2,8 @@
 layout: post
 title:  "Ginger mug cake"
 date:   2020-01-23 09:01:01 +0100
-categories: jekyll update
-tags: vegan, mug,
+categories: dessert
+tags: vegan, mug, ginger, microwave
 ---
 
 A simple but effective ginger mug cake made in the micro-warv-ay!
