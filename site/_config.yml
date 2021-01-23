@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   “Less Spam, More Jam is a simple recipe website 
   without the ingredients tragic backstory”
 baseurl: "" # the subpath of your site, e.g. /blog
-permalink: /category/:categories/:title/
+permalink: /:categories/:title/
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
