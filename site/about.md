@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hate the spammy websites, but want the recipes?  Us too.
+Don’t care about their tragic backstory? Us neither.
+Hate 10 million pop-ups and endless scrolling to see ingredient, Holla!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Scroll on to get fuss free recipes to try.  Life’s too short; forget the Spam, add more Jam.
 
 
-[jekyll-organization]: https://github.com/jekyll
+All of our recipes have been tried and tested on multiple occasions, so we’re sure they‘ll work for you.
+
