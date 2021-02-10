@@ -18,11 +18,11 @@ That is all!
 
 
 
-Hated spammy websites, but want the recipes?  Us too.
+Hate spammy websites, but want the recipes?  Us too.
 
 Don’t care about their tragic backstory? Us neither.
 
-Hate 10 million pop-ups and endless scrolling to see ingredient, Holla!
+Hate 10 million pop-ups and endless scrolling to see ingredient? Holla!
 
 
 Scroll on to get fuss free recipes to try.  Life’s too short; forget the Spam, add more Jam.
